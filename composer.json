@@ -1,24 +1,12 @@
 {
-    "name": "weprovide/valet-plus",
+    "name": "jikama93/valet-jkm",
     "app": "Valet+",
     "description": "Blazing fast macOS PHP development environment",
     "license": "MIT",
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
-        },
-        {
-            "name": "Adam Wathan",
-            "email": "adam.wathan@gmail.com"
-        },
-        {
-            "name": "Tim Neutkens",
-            "email": "tim@weprovide.com"
-        },
-        {
-            "name": "Johann Zelger",
-            "email": "j.zelger@techdivision.com"
+            "name": "jikama",
+            "email": "jikama@majika.jp"
         }
     ],
     "autoload": {
